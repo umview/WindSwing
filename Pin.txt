@@ -1,0 +1,6 @@
+Buzzer PB2
+UART1 PA9 PA10
+PWM PA6£¬7£¬8£¬9
+
+test1 7025
+test2 7150
